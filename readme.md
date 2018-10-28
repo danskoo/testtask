@@ -1,10 +1,8 @@
 для запуска тестого задания необходимо:
 1) необходимо создать базу данных, создать файл .env и заполнить следующие поля:
-DB_DATABASE=
-
-DB_USERNAME=
-
-DB_PASSWORD=
+*DB_DATABASE=
+*DB_USERNAME=
+*DB_PASSWORD=
 2) установить composer: composer install (данную команду необходимо выполнять в клонированном директории)
 3) выполнить миграции: php artisan migrate
 
